@@ -1,2 +1,45 @@
-# Nonprofit--NGO-Client-CRM-and-Pipeline-Tracker-Notion-Template
-Tracks every client interaction, deal stage, and revenue metric in one dashboard. All-in-one replaces 3-4 separate tools.
+# Nonprofit & NGO Client CRM and Pipeline Tracker Notion Template
+
+> Notion Template for Nonprofit
+
+Built for nonprofit directors and grant writers who are tired of spending hours building a system before you can actually use it.
+
+Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.
+
+## What's Included
+
+- Nonprofit & Ngo Client Crm And...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard views | ✅ | ✅ |
+| Sample data | ✅ | ✅ |
+| Advanced automations | ❌ | ✅ |
+| Custom formulas | ❌ | ✅ |
+| Multiple databases | ❌ | ✅ |
+| Dashboard views | ❌ | ✅ |
+| Lifetime updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.00** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQ8wPaDd5wg7BC7jCcZX45)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
